@@ -1,2 +1,3 @@
 # open-apis
-some open apis and really free
+
+[一言](https://hitokoto.cn/api)
