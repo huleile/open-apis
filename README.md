@@ -10,5 +10,6 @@
 
 - 穆念仙 Github RollToolsApi
   [https://github.com/MZCretin/RollToolsApi](https://github.com/MZCretin/RollToolsApi)
-  [https://www.mxnzp.com/](主页https://www.mxnzp.com/)
-  开放易用的接口服务
+  [主页(https://www.mxnzp.com/)](https://www.mxnzp.com/)
+
+  开放易用的接口服务, 包含了 节假日、二维码生成、通用彩票信息、随机笑话、天气查询、音乐歌曲查询、美女福利等等
